@@ -1,1 +1,1 @@
-# Alfido_Tech_Internship
+This is a fun and interactive Number Guessing Game built using Python's Tkinter library. The program randomly selects a number between 1 and 100, and the player must guess the correct number through a graphical user interface. Feedback is given for each guess — whether it's too high, too low, or correct — and the number of attempts is counted. The game is ideal for beginners to learn about GUI programming, random number generation, and basic logic implementation in Python.
